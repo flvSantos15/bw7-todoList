@@ -5,8 +5,8 @@
 # o que faz
 
 > adiciona, exclui e edita tarefas.
+
 # tecnologias
 
-> Typescript
+> Typescript,
 > styled-components
-> 
